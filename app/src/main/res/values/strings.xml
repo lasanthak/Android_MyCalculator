@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="calc_text">-12345678901234567890</string>
+
+    <string name="btnNum1">1</string>
+    <string name="btnNum2">2</string>
+    <string name="btnNum3">3</string>
+    <string name="btnNum4">4</string>
+    <string name="btnNum5">5</string>
+    <string name="btnNum6">6</string>
+    <string name="btnNum7">7</string>
+    <string name="btnNum8">8</string>
+    <string name="btnNum9">9</string>
+    <string name="btnNum0">0</string>
+    <string name="btnPeriod">·</string>
+    <string name="btnSign">±</string>
+    <string name="btnOpAdd">+</string>
+    <string name="btnOpSubtract">-</string>
+    <string name="btnOpMultiply">×</string>
+    <string name="btnOpDivide">÷</string>
+    <string name="btnEqual">=</string>
+    <string name="btnClear">C</string>
+    <string name="btnClearEntry">CE</string>
+</resources>
